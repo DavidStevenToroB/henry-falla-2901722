@@ -1,0 +1,138 @@
+ 
+header{
+    background-image: url('../assets/img/angel-jimenez.jpg');
+    background-repeat: no-repeat;
+    padding: 230px;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    background-size: cover;
+    font-family: sans-serif;
+}
+section{
+    margin: 0px 45px;
+    padding: 0px 0px;
+}
+#sectionSpace{
+    margin: 200px 45px;
+}
+.box{
+    display: flex;
+    align-content: space-around;
+}
+.box2{
+    display: flex;
+    flex-direction: row-reverse;
+    align-content: space-around;
+}
+.box3{
+    display: flex;
+    background: url("../assets/img/john-raptis.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin: 0px -45px;
+    padding: 0px;
+    justify-content: end;
+    color: white;
+}
+.tittleColor{
+        background: linear-gradient(to left, rgb(255, 0, 200) 80%,rgb(255, 154, 71) 96%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: rgb(243, 255, 71);  
+        font-size: 60px;
+        font-family: sans-serif;
+        margin: 10px 45px;
+        padding: 0px;
+}
+.subTittle{
+    color: black;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin: 10px 45px;
+    padding: 0px;
+}
+.pimg{
+    color: black;
+    font-size: 25px;
+    margin: 0px 45px;
+    padding: 10px;
+}
+img{
+    margin: 0px 45px;
+    padding: 10px 0px;
+}
+.boxDiv{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    width: 1000px;
+    margin: 0px 200px;
+}
+.boxDiv ul{
+    width: 20%;
+    margin: 60px 0px;
+
+}
+.boxDiv ul li{
+    list-style: none;
+}
+hr{
+    margin: 0px 250px;
+}
+.copy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 250px;
+}
+#finalP{
+    color: white;
+    font-size: 18px;
+    margin: 10px 80px;
+    width: 500px;
+  
+}
+.textSpace{
+    margin: 200px 100px;
+}
+footer{
+    background-color: rgb(255, 74, 93);
+    margin: 0px;
+    height: 40vh;
+    color: white;
+}
+.button1-2{
+    size: 200px;
+    color: white;
+    background-color: rgb(255, 74, 93);
+    border-color: rgba(245, 222, 179, 0);
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+    margin: 10px 45px;
+}
+.finalTitle{
+    color: white;
+    font-size: 60px;
+    margin: 0px 80px;
+    font-family: sans-serif;
+}
+.finalDiv{
+    margin: 200px 270px;
+}
+.button3{
+    size: 200px;
+    color: white;
+    background-color: rgb(255, 74, 93);
+    border-color: rgba(245, 222, 179, 0);
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+    margin: 10px 80px;
+}
+#marginlist{
+    margin: 50px 0px;
+}
+    
